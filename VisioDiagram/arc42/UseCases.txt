@@ -1,0 +1,4 @@
+Use Case
+
+A Use Case describes a list of steps by defining interactions between an actor and a system to achive a specific goal. 
+A Use Case consists of all possible scenarios, that means paths, through a use case from a user point of view.
