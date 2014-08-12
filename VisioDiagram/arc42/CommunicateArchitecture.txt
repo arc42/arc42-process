@@ -1,1 +1,1 @@
-to do
+Communications includes documentation using templates describing the solution in a understandable and correct way.

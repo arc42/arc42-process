@@ -1,1 +1,1 @@
- 
+ Bottom-Up means starting with details going to the abstractions. Most implementations are done using bottom-up strategies. Planing and modelling are mostly done top-down!

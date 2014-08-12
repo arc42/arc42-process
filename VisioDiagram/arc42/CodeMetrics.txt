@@ -1,1 +1,2 @@
-to do
+Code metrics measures a specific property of a part of a software or its specifications. Examples for metrics are LoC (Lines Of Code), Cohesion, Number Of Bugs, Coupling
+or Cyclomatic complexity.

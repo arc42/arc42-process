@@ -1,1 +1,2 @@
-to do
+In the role of an architect you have to know what's going on and what is done and how. That does not mean that the architect is in charge of all code that is produced, 
+but he should review critical modules and also ensure that quality guidelines and requirements are met.
