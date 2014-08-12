@@ -1,1 +1,1 @@
-Critical architectural decisions should be supported by alternatives that had been discussed or evaluated-
+Critical architectural decisions should be supported by alternatives that had been discussed or evaluated.
