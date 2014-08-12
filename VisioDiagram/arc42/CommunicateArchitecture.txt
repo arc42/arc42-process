@@ -1,1 +1,2 @@
-Communications includes documentation using templates describing the solution in a understandable and correct way.
+Communication includes documentation using templates describing the solution in a understandable and correct way.
+The documentation has to be maintainable, clear and adequate depending on the complexity of the solution.
