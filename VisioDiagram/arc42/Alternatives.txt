@@ -1,1 +1,1 @@
-to do
+Critical architectural decisions should be supported by alternatives that had been discussed or evaluated-
