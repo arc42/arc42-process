@@ -1,2 +1,2 @@
 Every architectural decisions must be documented in an understandable and logical way.
-This decisions can belong to technical decisions like chosen frameworks or other dependencies, but always relating to the customers or stakeholder point of view.
+This decisions can belong to technical decisions like chosen frameworks or other dependencies, but always relating to the customers or stakeholders point of view.

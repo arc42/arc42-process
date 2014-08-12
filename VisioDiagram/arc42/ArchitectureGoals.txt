@@ -1,1 +1,1 @@
-to do
+The list of architecture goals describes all quality criteria and other non functional goals of the architecture.

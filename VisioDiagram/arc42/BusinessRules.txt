@@ -1,1 +1,1 @@
-to do
+Most enterprise software systems include logic in form of business rules. Those rules can be described in many ways. There can be static XML files, in-line hard-coded rules or complex rule engines that are configurable at runtime and work dynamically.

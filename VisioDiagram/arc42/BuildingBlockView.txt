@@ -1,1 +1,1 @@
-to do
+This is also known as component view and describes a part of the model as a white box including other blackboxes. It is a structural diagram that shows a specific view to the system.

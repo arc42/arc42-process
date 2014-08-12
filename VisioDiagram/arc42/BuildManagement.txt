@@ -1,1 +1,1 @@
-to do
+Build Management is the task of automatically compiling and linking the code to a deliverable package.
