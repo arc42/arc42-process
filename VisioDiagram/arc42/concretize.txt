@@ -1,1 +1,1 @@
-to do
+Quality and Architecture Goals are refined in scenarios. Scenarios build together with quality trees the operationalized quality requirements.

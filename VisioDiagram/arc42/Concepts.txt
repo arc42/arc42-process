@@ -1,2 +1,2 @@
-To fulfil the requirements the software solution may need technical concepts and frameworks.
-Use tested and well known patterns and concepts that match specific parts of your solution.
+Technical concepts can be evaluated using proof of concepts. Keep in mind that it is better to decide as late as possible to minimize the risc of wrong decisions. This is called 
+"last responsible moment" or just LRM.
